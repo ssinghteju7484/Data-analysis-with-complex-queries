@@ -84,3 +84,8 @@ This project highlights how SQL can effectively manage and analyze transactional
 
 # Output
 
+![Image](https://github.com/user-attachments/assets/79593ffc-a28e-40c7-aee6-5b42ce9e6279)
+
+![Image](https://github.com/user-attachments/assets/075d9122-6728-4f07-97c2-b223db894722)
+
+![Image](https://github.com/user-attachments/assets/eebaa019-dc61-4077-85b7-8ff933cab687)
